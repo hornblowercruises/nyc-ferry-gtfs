@@ -4,7 +4,7 @@ NYC Ferry is committed to providing open data to better inform riders. The mater
 
 Additional resources can be found here: https://developers.google.com/transit/gtfs/
 
-## Contains routes, trips & stops in GTFS format
+## Routes, trips & stops
 http://cnx.ferry.nyc/rtt/public/utility/gtfs.aspx
 
 ## Real time alerts
